@@ -6,5 +6,5 @@ But this is my first app on flutter.<br>
 Based on Dr. Angela Yu's lecture series in Udemy:<br>
   https://www.udemy.com/course/flutter-bootcamp-with-dart/
   <br>
-  </p>
-![img](https://github.com/maoz-grossman/Not-so-rich/blob/main/images/phone.JPG?raw=true)  
+  <img src="https://github.com/maoz-grossman/Not-so-rich/blob/main/images/phone.JPG?raw=true">
+  </p> 
